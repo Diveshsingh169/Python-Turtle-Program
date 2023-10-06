@@ -3,9 +3,9 @@ import turtle
 length=100
 size=400
 
-colors=['red','orange','yellow','green','blue','Indigo','violet']
+colors=['violet','orange','yellow','blue','green','Indigo','red']
 
-turtle.speed(7)
+turtle.speed(0)
 turtle.pensize(10)
 
 for i in colors:
